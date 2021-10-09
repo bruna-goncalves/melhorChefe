@@ -1,0 +1,15 @@
+body{
+  margin: 0 30%;
+  text-align: center;
+  background-color: gold;
+}
+
+img{
+  width: 80%;
+  hight: auto;
+}
+
+label{
+  font-family: Open Sans, sans-serif;
+  font-size: 125%;
+}
